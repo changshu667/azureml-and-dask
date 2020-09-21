@@ -30,6 +30,7 @@ dependencies:
   - s3fs
   - fastparquet
   - dask-ml
+  - cloudpickle
   - pip:
     - graphviz 
     - cachey

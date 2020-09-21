@@ -32,6 +32,7 @@ dependencies:
   - dask-ml
   - pip:
     - graphviz 
+    - cloudpickle
     - cachey
     - azureml-sdk[notebooks]
     - mpi4py
