@@ -43,7 +43,7 @@
 	- Select `OK` to create the container
 	
 6. Upload dataset to the block blobs in that container
-	- download the dataset `search data` from the repository	
+	- download the dataset `search_data.csv` from the repository's folder `interactive`	
 	- navigate to the container you created in the previous section
 	- Select the `Upload` button to open the upload blade and select the local file you want to upload 
 
